@@ -1,4 +1,4 @@
-var count = 1000;
+var count = 50000;
 var content = document.getElementById("content");
 
 for (let i = 0; i<count; i++){
